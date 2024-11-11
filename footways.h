@@ -1,9 +1,6 @@
 /*footways.h*/
 
 // A collection of footways in the open street map
-// Ian Evensen
-// Northwestern University
-// CS 211
 // 
 #pragma once
 
