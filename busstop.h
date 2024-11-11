@@ -1,10 +1,6 @@
 /*busstop.h*/
 // A bus stop in the open street map
 
-// Ian Evensen
-// Northwestern University
-// CS 211
-//
 
 #pragma once
 
