@@ -2,24 +2,6 @@
 
 //
 // A collection of nodes in the Open Street Map.
-// 
-// Ian Evensen
-// Northwestern University
-// CS 211
-// 
-// References:
-// 
-// TinyXML: 
-//   files: https://github.com/leethomason/tinyxml2
-//   docs:  http://leethomason.github.io/tinyxml2/
-// 
-// OpenStreetMap: https://www.openstreetmap.org
-// OpenStreetMap docs:  
-//   https://wiki.openstreetmap.org/wiki/Main_Page
-//   https://wiki.openstreetmap.org/wiki/Map_Features
-//   https://wiki.openstreetmap.org/wiki/Node
-//   https://wiki.openstreetmap.org/wiki/Way
-//   https://wiki.openstreetmap.org/wiki/Relation
 //
 
 #include <iostream>
