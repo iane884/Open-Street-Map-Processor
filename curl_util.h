@@ -2,15 +2,6 @@
 
 //
 // CURL utility functions for calling a web server.
-// 
-// Prof. Joe Hummel
-// Northwestern University
-// CS 211
-// 
-// References:
-//
-// CURL library for internet access:
-//   https://everything.curl.dev/libcurl
 //
 
 #pragma once
