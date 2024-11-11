@@ -4,10 +4,6 @@
 // Main program to read and output map's buildings, bus stops, nearest bus stops, 
 // and bus stop predictions, based on user commands.
 // 
-// Ian Evensen
-// Northwestern University
-// CS 211
-// 
 #include <iostream>
 #include <string>
 #include "building.h"
