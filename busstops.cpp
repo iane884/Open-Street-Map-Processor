@@ -2,10 +2,7 @@
 //
 // Bus Stops class to read all the bus stops from CSV file and store them
 //
-// Ian Evensen
-// Northwestern University 
-// CS 211
-//
+
 #include "busstops.h"
 #include "busstop.h"
 #include "dist.h"
