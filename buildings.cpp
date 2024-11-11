@@ -3,9 +3,6 @@
 //
 // A collection of buildings in the Open Street Map
 // implementation of functions defined in buildings.h
-// Ian Evensen
-// Northwestern University
-// CS 211
 
 #include <vector>
 #include <cassert>
