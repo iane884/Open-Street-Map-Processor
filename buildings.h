@@ -3,12 +3,6 @@
 //
 // A collection of buildings in the Open Street Map
 //
-// Ian Evensen
-// Northwestern University
-// CS 211
-//
-// Original author: Prof. Joe Hummel
-//
 
 #pragma once
 #include <vector>
