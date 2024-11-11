@@ -3,10 +3,6 @@
 //
 // A building in the Open Street Map.
 // 
-// Ian Evensen
-// Northwestern University
-// CS 211
-// 
 
 #include "building.h"
 #include "node.h"
