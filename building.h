@@ -3,10 +3,7 @@
 //
 // A building in the Open Street Map.
 // 
-// Ian Evensen
-// Northwestern University
-// CS 211
-// 
+
 
 #pragma once
 
