@@ -1,10 +1,6 @@
 /*busstop.cpp*/
 // A bus stop in the open street map
 
-// Ian Evensen
-// Northwestern University
-// CS 211
-//
 
 #include "busstop.h"
 #include <curl/curl.h>
