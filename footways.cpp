@@ -1,9 +1,6 @@
 /*footways.cpp*/
 
 // A collection of footways in the open street map
-// Ian Evensen
-// Northwestern University
-// CS 211
 // 
 #include "footways.h"
 #include "osm.h"
